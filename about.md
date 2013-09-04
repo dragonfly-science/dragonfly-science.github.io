@@ -1,21 +1,27 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
+title: About Dragonfly Science
+tagline: Dragon Science - Data scientists
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: texture-feature-02.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+We are a specialist data analysis company, valuing excellent, innovative work,
+carried out in an inclusive way.
 
-## Minimal Mistakes is all about:
+Each of us has a PhD in a scientific discipline and significant experience in
+our own field. Together we have a broad range of skills to draw on and apply to
+diverse problems. We like the challenge of complex issues. Our research
+backgrounds, and our expertise in software development gives us the flexibility
+to tailor our service to the particular needs of each client.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first --- other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+Dragonfly Science was established in 2006 and now has eight staff. We work in
+the heart of Wellington, New Zealand's capital.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+We are committed to the scientific ethics of independence and integrity. We
+support principles of openness in sharing results, engaging with peer review and
+collaboration. Our aim is to provide the information necessary for robust public
+debate and effective management, leading to better outcomes for society and the
+environment
