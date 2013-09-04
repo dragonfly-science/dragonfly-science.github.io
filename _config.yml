@@ -2,8 +2,7 @@ title:            Dragonfly Science
 tagline:          Cool stuff we do
 description:      A blog about cool stuff we do
 #Comment out url when working locally to resolve base urls correctly
-# url:              http://your-site.com
-
+url:              http://dragonfly-science.github.io/
 # Owner/author information
 owner:
   name:           Dragonfly Science
