@@ -10,8 +10,7 @@ We use:
 - coderay - adds annotated classes to words in code blocks.
 
 Then a css theme is used to make things pretty. These are named
-`assets/css/coderay_*`. By default we use one that looks like github's code
-highlighting.
+`assets/css/coderay_*`. By default we use "Twilight".
 
 An example:
 

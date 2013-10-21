@@ -13,6 +13,7 @@ The problem: Take an SVG, and use the location of specific SVG elements to displ
 HTML5 content.
 
 TODO:
+
 - How much background to give re: using SVG for form generation?
 - Example images and code examples would make this more useful, but require more work.
 
@@ -20,11 +21,13 @@ TODO:
 
 At first, my research pointed me to a promising SVG element called
 `foreignObject`. This object is specifically designed to allow for the
-embedding of xml content within SVG structures. And my general impression from
-what people were saying is that both HTML and MathML foreignObject content was
+embedding of XML content within SVG structures. My general impression from
+some googling was that both HTML and MathML foreignObject content are
 supported by browsers.
 
-"Excellent!" I thought. Some simple HTML was all I needed, and I was
+"Excellent!" I thought.
+
+Some simple HTML was all I needed, and I was
 temporarily glad I would not have to muck around with transforming
 coordinates manually.  I could leave it up to the browser to put things in the
 right place. Or at least, so I thought...
