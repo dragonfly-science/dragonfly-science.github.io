@@ -1,3 +1,5 @@
+*.un~
+*.sw[op]
 _site
 .DS_Store
 *.sublime-project

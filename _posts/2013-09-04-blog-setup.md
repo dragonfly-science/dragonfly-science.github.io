@@ -10,6 +10,18 @@ image:
 
 Here is a list of things that need to be done before this blog can be made live.
 
+## Organisation
+
+- What categories can we post to?
+   - technical
+   - science
+   - people
+   - ?
+- What tags should we use by default? These would probably be different for
+each category...
+   - For tech: The technology/language/library. E.g. 'html5', 'python', 'devops', 'r' etc.
+   - For science: 'methods', 'bayesian', 'data' 
+
 
 ## Images
 
@@ -24,7 +36,6 @@ Here is a list of things that need to be done before this blog can be made live.
 - About us tagline
 - About us text
 - Blog description
-
 
 ## Social
 

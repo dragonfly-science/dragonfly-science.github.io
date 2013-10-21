@@ -2,7 +2,7 @@ title:            Dragonfly Science
 tagline:          Cool stuff we do
 description:      A blog about cool stuff we do
 #Comment out url when working locally to resolve base urls correctly
-url:              http://dragonfly-science.github.io/
+#url:              http://dragonfly-science.github.io/
 # Owner/author information
 owner:
   name:           Dragonfly Science
@@ -19,6 +19,16 @@ owner:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
+
+authors:
+  joel:
+    name: Joel Pitt
+    display_name: Joel Pitt
+    gravatar: 031b524b712424833789cabc02fd6bdf
+    email: joel@dragonfly.co.nz
+    web: https://dragonfly.co.nz
+    twitter: ferrouswheel
+    github: ferrouswheel
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-441953-1
@@ -51,10 +61,11 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  use_coderay: true
+  default_lang: python
 
   coderay:
-    coderay_line_numbers:
+    coderay_line_numbers: table
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
